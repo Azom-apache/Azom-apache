@@ -4,4 +4,4 @@
 🌱 Ask me about my Skills: Engineer | Web Developer | Laravel PHP Developer.<br>
  🌱And Also Ask me about my Skills: Core PHP | Tailwind CSS | React | Linux .<br>
  💬 I’m currently learning TypeScript | Jquery | Alphine | SQL | Mysql | Ajax .</p>
-# 📫 How to reach me azomsarker217@gmail.com
+ 📫 How to reach me azomsarker217@gmail.com
